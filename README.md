@@ -2,15 +2,12 @@
 Interesting uses of http://webtask.io
 
 
-#Done
 ## Micro service 
- * Yoda Speak (Change your text to yodish)
+ * [Yoda Speak (Change your text to yodish)](./yoda-speak.js)
+ * Remotejob alert (idea/wip)
 
-#Ideas/WIP
- ## Webhooks
-  * Github relase apk files to playstore upload
- ## Micro service
-  * Remotejob alert
+## Webhooks
+  * Github relase apk files to playstore upload (idea)
 
 #License
 MIT
